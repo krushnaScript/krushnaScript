@@ -28,7 +28,7 @@
 <br>
 <h2> 🤝 Let's get connected: </h2>
 <p align="left">
-<a href="https://codesandbox.io/u/krushnachandradash654" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="krushnachandradash654" /></a>
+<a href="https://codesandbox.io/u/krushnachandradash654" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="krushnachandradash654" /></a>
 <a href="https://dev.to/krushnachandradash654" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="krushnachandradash654" /></a>
 <a href="https://linkedin.com/in/krushnachandradash654" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="krushnachandradash654" /></a>
 <a href="https://stackoverflow.com/users/krushnachandradash654" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="krushnachandradash654" /></a>
